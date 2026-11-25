@@ -8,8 +8,7 @@ The portfolio also integrates an AI-powered assistant with Live Voice capabiliti
 
 🌐 **Live Website:** https://personal-portfoilo.onrender.com/
 
-💻 **GitHub Repository:** Add your repository URL here.
-
+💻 **GitHub Repository:**(https://github.com/Jayadaripa/Personal-Portfoilo)
 ## 🌟 Features
 
 - **Personal Introduction:** A dedicated section introducing me and my technical interests.
